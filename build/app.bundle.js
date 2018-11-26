@@ -1173,7 +1173,7 @@ var Buttons = function (_React$Component4) {
                     _react2.default.createElement(NumberButton, { Number: '6' }),
                     _react2.default.createElement(NumberButton, { Number: '3' }),
                     _react2.default.createElement(NumberButton, { Number: 'AC' }),
-                    _react2.default.createElement(NumberButton, { Number: ' ' })
+                    _react2.default.createElement(NumberButton, { Number: '.' })
                 ),
                 _react2.default.createElement(
                     'div',

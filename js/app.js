@@ -160,7 +160,7 @@ class Buttons extends React.Component{
                     <NumberButton Number='6'></NumberButton>
                     <NumberButton Number='3'></NumberButton>
                     <NumberButton Number='AC'></NumberButton>
-                    <NumberButton Number=' '></NumberButton>
+                    <NumberButton Number='.'></NumberButton>
                 </div>
                 <div>
                     <NumberButton Number='/'></NumberButton>
